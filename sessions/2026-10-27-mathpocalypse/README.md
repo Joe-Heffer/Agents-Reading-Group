@@ -49,6 +49,10 @@ Without `--theme-set`, Marp falls back to its default theme. See
 
 ## Background reading
 
+Start here if you are new to the topic: a very accessible video introduction (YouTube).
+
+* [Introductory video on the Mathpocalypse](https://youtu.be/xuHOralyJao)
+
 In order, if time is short:
 
 1. **OpenAI — On the Navier–Stokes Millennium Prize Problem** (8 Sep 2026)
